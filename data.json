@@ -1,0 +1,22 @@
+{
+  "warianty": [
+      {
+          "styl": "styl1",
+          "tytul": "Pierwszy wariant",
+          "tresc": "To jest tekst w stylu 1",
+          "lista": ["Element 1", "Element 2"]
+      },
+      {
+          "styl": "styl2",
+          "tytul": "Drugi wariant",
+          "tresc": "To jest tekst w stylu 2",
+          "lista": ["Element A", "Element B"]
+      },
+      {
+          "styl": "styl3",
+          "tytul": "Trzeci wariant",
+          "tresc": "To jest tekst w stylu 3",
+          "lista": ["Element X", "Element Y"]
+      }
+  ]
+}

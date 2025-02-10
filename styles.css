@@ -1,0 +1,19 @@
+body {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.styl1 {
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+
+.styl2 {
+    background-color: #8d9ff3;
+    padding: 10px;
+}
+
+.styl3 {
+    background-color: #d392f8;
+    padding: 10px;
+}
